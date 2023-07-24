@@ -1,0 +1,11 @@
+[1mdiff --git a/new_file.py b/new_file.py[m
+[1mindex ab4883d..fc4a5dd 100644[m
+[1m--- a/new_file.py[m
+[1m+++ b/new_file.py[m
+[36m@@ -1 +1,3 @@[m
+[31m-print('hello python')git[m
+\ No newline at end of file[m
+[32m+[m[32mprint('hello python')[m
+[32m+[m[32ma = 'wow now'[m
+[32m+[m[32mprint(a)[m
+\ No newline at end of file[m
